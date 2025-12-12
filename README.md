@@ -1,4 +1,4 @@
-This repository provides the necessary scripts to reproduce the results and figures from paper "drivers_characteristics_MYDs". 
+This repository provides the necessary scripts to reproduce the results and figures from paper "CIMP6 model evaluation of multi-year droughts". 
 It contains the following folders and content:
 
 a. Scripts:
@@ -26,4 +26,4 @@ a. Scripts:
 
 b. Masks: 
 
-	Contains masks for central Argentina (ARG), Southeast Australia (AUS), California (CAL), India (IND), South Africa (SA), and Western Europe (WEU). All masks are based on (combinations of) river basins.
+	Contains masks for central Argentina (ARG), Southeast Australia (AUS), California (CAL), India (IND), Southern Africa (SA), and Western Europe (WEU). All masks are based on (combinations of) river basins and have a resolution of 1x1 degrees.
